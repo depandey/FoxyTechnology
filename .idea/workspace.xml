@@ -26,166 +26,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b8417bf-5109-47f5-96b9-f631bb945ec8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/6.jpg" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\client-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\client-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\client-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\client-5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\full\10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\full\11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\full\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\full\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\full\7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\7.png" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\11-1.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/11-1.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\11-2.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/11-2.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\11-3.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/11-3.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\11-4.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/11-4.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\5-1.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/5-1.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\5-2.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/5-2.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\5-3.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/5-3.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\5-4.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/5-4.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\6-1.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/6-1.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\6-2.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/6-2.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\6-3.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/6-3.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\6-4.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/6-4.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\7-1.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/7-1.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\7-2.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/7-2.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\7-3.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/7-3.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\proj3-1.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/proj3-1.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\proj3-2.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/proj3-2.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\proj3-3.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/proj3-3.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\proj3-4.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/proj3-4.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\projects\silicon_src2\img\proj3-5.html" afterPath="$PROJECT_DIR$/projects/foxy_src/img/proj3-5.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\YTPlayer.css" afterPath="$PROJECT_DIR$/foxy_src/css/YTPlayer.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\animate.css" afterPath="$PROJECT_DIR$/foxy_src/css/animate.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\bootstrap.css" afterPath="$PROJECT_DIR$/foxy_src/css/bootstrap.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\colors\silicon.css" afterPath="$PROJECT_DIR$/foxy_src/css/colors/silicon.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\cubeportfolio.css" afterPath="$PROJECT_DIR$/foxy_src/css/cubeportfolio.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\flexslider.css" afterPath="$PROJECT_DIR$/foxy_src/css/flexslider.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\font-awesome.min.css" afterPath="$PROJECT_DIR$/foxy_src/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\ionicons.min.css" afterPath="$PROJECT_DIR$/foxy_src/css/ionicons.min.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\liquid-slider.css" afterPath="$PROJECT_DIR$/foxy_src/css/liquid-slider.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\magnific-popup.css" afterPath="$PROJECT_DIR$/foxy_src/css/magnific-popup.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\style.css" afterPath="$PROJECT_DIR$/foxy_src/css/style.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\ytp-regular-2.html" afterPath="$PROJECT_DIR$/foxy_src/css/ytp-regular-2.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\css\ytp-regular.html" afterPath="$PROJECT_DIR$/foxy_src/css/ytp-regular.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\fontawesome-webfontba72.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/fontawesome-webfontba72.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\fontawesome-webfontba72.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/fontawesome-webfontba72.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\fontawesome-webfontba72.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/fontawesome-webfontba72.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\fontawesome-webfontba72.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/fontawesome-webfontba72.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/fontawesome-webfontd41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\glyphicons-halflings-regulard41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/glyphicons-halflings-regulard41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\ionicons290d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/ionicons290d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\ionicons290d.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/ionicons290d.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\ionicons290d.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/ionicons290d.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\ionicons290d.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/ionicons290d.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-bold-webfont.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-bold-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-bold-webfont.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-bold-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-bold-webfont.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-bold-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-bold-webfont.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-bold-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-bold-webfontd41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-bold-webfontd41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-regular-webfont.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-regular-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-regular-webfont.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-regular-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-regular-webfont.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-regular-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-regular-webfont.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-regular-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\montserrat-regular-webfontd41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/montserrat-regular-webfontd41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\montserrat\stylesheet.css" afterPath="$PROJECT_DIR$/foxy_src/fonts/montserrat/stylesheet.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-extralight-webfont.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-extralight-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-extralight-webfont.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-extralight-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-extralight-webfont.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-extralight-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-extralight-webfont.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-extralight-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-extralight-webfontd41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-extralight-webfontd41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-light-webfont.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-light-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-light-webfont.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-light-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-light-webfont.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-light-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-light-webfont.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-light-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-light-webfontd41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-light-webfontd41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-regular-webfont.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-regular-webfont.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-regular-webfont.svg" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-regular-webfont.svg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-regular-webfont.ttf" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-regular-webfont.ttf" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-regular-webfont.woff" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-regular-webfont.woff" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\raleway-regular-webfontd41d.eot" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/raleway-regular-webfontd41d.eot" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\fonts\raleway\stylesheet.css" afterPath="$PROJECT_DIR$/foxy_src/fonts/raleway/stylesheet.css" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\images\raster.html" afterPath="$PROJECT_DIR$/foxy_src/images/raster.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\images\raster@2x.html" afterPath="$PROJECT_DIR$/foxy_src/images/raster@2x.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\arrow.png" afterPath="$PROJECT_DIR$/foxy_src/img/arrow.png" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_1.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_1.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_2.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_2.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_3.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_3.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_4.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_4.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_5.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_5.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_6.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_6.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_7.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_7.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\bg_8.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/bg_8.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\cbp-loading-popup.gif" afterPath="$PROJECT_DIR$/foxy_src/img/cbp-loading-popup.gif" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\cbp-loading.html" afterPath="$PROJECT_DIR$/foxy_src/img/cbp-loading.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\cbp-sprite.png" afterPath="$PROJECT_DIR$/foxy_src/img/cbp-sprite.png" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\cbp-sprite2.png" afterPath="$PROJECT_DIR$/foxy_src/img/cbp-sprite2.png" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\client-4.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/client-4.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\dot.png" afterPath="$PROJECT_DIR$/foxy_src/img/dot.png" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\error.html" afterPath="$PROJECT_DIR$/foxy_src/img/error.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\favicon.png" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.png" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\loading.html" afterPath="$PROJECT_DIR$/foxy_src/img/loading.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\pattern-1.html" afterPath="$PROJECT_DIR$/foxy_src/img/pattern-1.html" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\pattern.png" afterPath="$PROJECT_DIR$/foxy_src/img/pattern.png" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\full\3.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/10.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\portfolio\thumb\3.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/11.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\preload.gif" afterPath="$PROJECT_DIR$/foxy_src/img/preload.gif" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc10.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc10.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc11.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc11.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc12.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc12.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc13.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc13.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc2.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc2.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc3.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc3.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc4.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc4.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc5.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc5.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc6.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc6.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc7.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc7.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc8.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc8.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\img\team\abc9.jpg" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc9.jpg" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.backstretch.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.backstretch.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.counterup.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.counterup.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.cubeportfolio.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.cubeportfolio.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.easing.1.3.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.easing.1.3.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.fitvids.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.fitvids.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.flexslider-min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.liquid-slider.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.liquid-slider.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.mb.YTPlayer.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.mb.YTPlayer.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.stellar.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.stellar.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.sticky.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.sticky.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\jquery.touchSwipe.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/jquery.touchSwipe.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\modernizr.custom.js" afterPath="$PROJECT_DIR$/foxy_src/js/modernizr.custom.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\scripts.js" afterPath="$PROJECT_DIR$/foxy_src/js/scripts.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\toucheffects.js" afterPath="$PROJECT_DIR$/foxy_src/js/toucheffects.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\waypoints.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/waypoints.min.js" />
-      <change type="MOVED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\silicon_src2\js\wow.min.js" afterPath="$PROJECT_DIR$/foxy_src/js/wow.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Guessprice/guessitgetit.html" afterPath="$PROJECT_DIR$/app/Guessprice/guessitgetit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/full/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/portfolio/thumb/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/team/abc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/android-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/android-icon-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/android-icon-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/android-icon-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/android-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/android-icon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/apple-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/client-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/client-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/client-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/client-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/ms-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/ms-icon-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/ms-icon-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/ms-icon-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/foxy_src/img/favicon.ico/manifest.json" />
+      <change type="DELETED" beforePath="C:\Users\609108084\IdeaProjects\FoxyTechnology\foxy_src\img\favicon.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foxy_src/img/preload.gif" afterPath="$PROJECT_DIR$/foxy_src/img/preload.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/project11.html" afterPath="$PROJECT_DIR$/projects/project11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/project3.html" afterPath="$PROJECT_DIR$/projects/project3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/project5.html" afterPath="$PROJECT_DIR$/projects/project5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/project6.html" afterPath="$PROJECT_DIR$/projects/project6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/project7.html" afterPath="$PROJECT_DIR$/projects/project7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foxy_src/css/style.css" afterPath="$PROJECT_DIR$/foxy_src/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FoxyTechnology.iws" />
@@ -208,7 +88,78 @@
     <favorites_list name="FoxyTechnology" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6725">
+              <caret line="142" column="187" selection-start-line="142" selection-start-column="187" selection-end-line="142" selection-end-column="187" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#8;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#10;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#section#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foxy_src/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="309" column="1" selection-start-line="309" selection-start-column="1" selection-end-line="309" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foxy_src/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foxy_src/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1186" column="1" selection-start-line="1186" selection-start-column="1" selection-end-line="1186" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foxy_src/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="345" column="84" selection-start-line="345" selection-start-column="84" selection-end-line="345" selection-end-column="84" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="silicon.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foxy_src/css/colors/silicon.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -238,6 +189,7 @@
         <option value="$PROJECT_DIR$/projects/project7.html" />
         <option value="$PROJECT_DIR$/projects/project11.html" />
         <option value="$PROJECT_DIR$/app/Guessprice/guessitgetit.html" />
+        <option value="$PROJECT_DIR$/foxy_src/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -324,6 +276,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="foxy_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoxyTechnology" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoxyTechnology" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foxy_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoxyTechnology" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FoxyTechnology" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="foxy_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="colors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -686,7 +678,7 @@
       <created>1446291094343</created>
       <option name="number" value="Default" />
       <updated>1446291094343</updated>
-      <workItem from="1446291102846" duration="10537000" />
+      <workItem from="1446291102846" duration="14411000" />
     </task>
     <task id="LOCAL-00001" summary="change images">
       <created>1446320416959</created>
@@ -694,11 +686,17 @@
       <option name="project" value="LOCAL" />
       <updated>1446320416959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rename folder">
+      <created>1446323468533</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1446323468533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10537000" />
+    <option name="totallyTimeSpent" value="14411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -720,7 +718,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -777,33 +775,22 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="change images" />
-    <option name="LAST_COMMIT_MESSAGE" value="change images" />
+    <MESSAGE value="rename folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24637681">
           <caret line="3" column="1406" selection-start-line="3" selection-start-column="1406" selection-end-line="3" selection-end-column="1406" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foxy_src/css/colors/silicon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8028985">
-          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foxy_src/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7492753">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -864,16 +851,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/foxy_src/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1186" column="1" selection-start-line="1186" selection-start-column="1" selection-end-line="1186" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foxy_src/css/colors/silicon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foxy_src/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="345" column="84" selection-start-line="345" selection-start-column="84" selection-end-line="345" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foxy_src/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foxy_src/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="309" column="1" selection-start-line="309" selection-start-column="1" selection-end-line="309" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12951808">
-          <caret line="205" column="8" selection-start-line="205" selection-start-column="8" selection-end-line="205" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.6725">
+          <caret line="142" column="187" selection-start-line="142" selection-start-column="187" selection-end-line="142" selection-end-column="187" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#section#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#section#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#section#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
